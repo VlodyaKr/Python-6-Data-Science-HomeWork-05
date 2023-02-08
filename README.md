@@ -29,7 +29,7 @@
 ---
 
 #### Автор
-[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Data-Science-HomeWork-04)](https://github.com/VlodyaKr)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Data-Science-HomeWork-05)](https://github.com/VlodyaKr)
 
 #### Володимир Кравченко
-[Написати автору листа](mailto:vlodya@gmail.com?subject=Python-6-Data-Science-HomeWork-04)
+[Написати автору листа](mailto:vlodya@gmail.com?subject=Python-6-Data-Science-HomeWork-05)
